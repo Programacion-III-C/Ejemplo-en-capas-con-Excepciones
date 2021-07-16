@@ -1,0 +1,16 @@
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\bin\Debug\MySqlConnector.dll
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\bin\Debug\System.Buffers.dll
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\bin\Debug\OptimizedDataReader.dll
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\bin\Debug\Savage.Data.dll
+C:\Users\Gonzalo Martinez\source\repos\AplicacionEnCapas\CapaLogica\bin\Debug\Savage.Data.MySqlClient.dll
